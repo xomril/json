@@ -7,7 +7,7 @@
         "thumbnailUrl": "https://xomril.github.io/json/images/small/sunset1.jpg"
     },
   {
-        "albumId": 1,
+        "albumId": 2,
         "id": 2,
         "title": "accusamus beatae ad facilis cum similique qui sunt",
         "url": "https://xomril.github.io/json/images/sunset2.jpeg",
@@ -33,6 +33,41 @@
         "title": "accusamus beatae ad facilis cum similique qui sunt",
         "url": "https://xomril.github.io/json/images/sunset5.jpeg",
         "thumbnailUrl": "https://xomril.github.io/json/images/small/sunset5.jpg"
+    },
+   {
+        "albumId": 6,
+        "id": 6,
+        "title": "accusamus beatae ad facilis cum similique qui sunt",
+        "url": "https://xomril.github.io/json/images/sunset6.jpeg",
+        "thumbnailUrl": "https://xomril.github.io/json/images/small/sunset6.jpg"
+    },
+  {
+        "albumId": 7,
+        "id": 7,
+        "title": "accusamus beatae ad facilis cum similique qui sunt",
+        "url": "https://xomril.github.io/json/images/sunset7.jpeg",
+        "thumbnailUrl": "https://xomril.github.io/json/images/small/sunset7.jpg"
+    },
+  {
+        "albumId": 8,
+        "id": 8,
+        "title": "accusamus beatae ad facilis cum similique qui sunt",
+        "url": "https://xomril.github.io/json/images/sunset8.jpeg",
+        "thumbnailUrl": "https://xomril.github.io/json/images/small/sunset8.jpg"
+    },
+  {
+        "albumId": 9,
+        "id": 9,
+        "title": "accusamus beatae ad facilis cum similique qui sunt",
+        "url": "https://xomril.github.io/json/images/sunset9.jpeg",
+        "thumbnailUrl": "https://xomril.github.io/json/images/small/sunset9.jpg"
+    },
+  {
+        "albumId": 10,
+        "id": 10,
+        "title": "accusamus beatae ad facilis cum similique qui sunt",
+        "url": "https://xomril.github.io/json/images/sunset10.jpeg",
+        "thumbnailUrl": "https://xomril.github.io/json/images/small/sunset10.jpg"
     }
  
   ]
